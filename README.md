@@ -1,4 +1,4 @@
 # DSA-And-LLD
 This is my first Git Repository.
 <br>
-Author - Shazia (Software Engineer)
+Author - Shazia Anwar
